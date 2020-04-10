@@ -1,5 +1,6 @@
 #K01{ max-width: 706px;
     min-height: 440px;
-    margin: ;
-
+    margin: 0 auto;
+    border:2px solid blue ;
+    padding: 10px;
 }
